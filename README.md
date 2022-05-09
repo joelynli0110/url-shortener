@@ -94,11 +94,6 @@ Then access the API using:
 http://localhost:5000/
 ```
 
-### Demo
-
-![demo](.\demo.gif)
-
-
 
 ## API Endpoints
 
