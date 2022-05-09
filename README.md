@@ -20,7 +20,7 @@ The implemented URL-shortener is a distributed URL-shortening service that uses:
 
 1. **Number of the servers**: Due to the time constraint of the assignment, the implemented service is now only manageable for **one server** (server_id is set to default value 1)
 
-2. **Unique id generation**: The unique id of short URLs is generated via a **Base62** encoding algorithm and assumed to have the **length 4**, i.e., we have $62^4$ string combinations.
+2. **Unique id generation**: The unique id of short URLs is generated via a **Base62** encoding algorithm and assumed to have the **length 4**, i.e., we have 62^4 string combinations.
 
 3. **Token range size**: The token range of each batch is set to 100000 by default.
 
